@@ -1,5 +1,6 @@
 <?php
 
+// Description: Returns the current year
 // Example Shortcodes
 // [year] = 2018
 
